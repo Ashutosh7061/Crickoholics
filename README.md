@@ -53,4 +53,11 @@ Future Add-ons: Pandas, NumPy, Scikit-Learn for analytics/predictions
 ![My Image](main.jpg)
 
 
-This is an IPL API built using Flask + MySQL.
+This is an main page.
+
+
+---
+
+![My Image](2.jpg)
+
+This is the API page.
