@@ -30,8 +30,6 @@ IPL-API/
 │── templates/  
 │   ├── index.html  
 │   └── players.html  
-│── database/  
-│   └── schema.sql  
 │── routes/  
 │   ├── teams.py  
 │   ├── players.py  
@@ -43,12 +41,10 @@ IPL-API/
 
 Backend: Flask (Python)  
 Database: MySQL  
-Frontend: HTML, CSS, Bootstrap  
+Frontend: HTML, CSS, Bootstrap, React  
 Tools: Postman, MySQL Workbench  
 Future Add-ons: Pandas, NumPy, Scikit-Learn for analytics/predictions
 
 ---
 
-## Installation and Setup
 
-1. Clone the repository
